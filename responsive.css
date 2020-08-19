@@ -2,7 +2,10 @@
     .continer {
        width:300px;
     }
- 
+     
+    header {
+     background-color:red;
+    }
     .main-container h1 {
         font-size:30px;
         -webkit-text-stroke: 2px black;
