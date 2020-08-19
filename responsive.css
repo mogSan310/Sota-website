@@ -6,6 +6,7 @@
     header {
      background-color:red;
     }
+    
     .main-container h1 {
         font-size:30px;
         -webkit-text-stroke: 2px black;
@@ -115,9 +116,6 @@
    height:1950px;
  }
  
- footer {
-   
-  
- }
+
  
  }
