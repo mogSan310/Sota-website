@@ -1,14 +1,14 @@
-@media screen and (max-width: 900px) {
-    .continer {
+@media screen and (max-width: 1910px) {
+   .continer {
        width:300px;
-    }
+   }
      
     
-    .main-container h1 {
-        font-size:30px;
-        -webkit-text-stroke: 2px black;
-        padding-top:30px;
-    }
+   .main-container h1 {
+       font-size:30px;
+      -webkit-text-stroke: 2px black;
+       padding-top:30px;
+   }
  
     
     .left-container img{
