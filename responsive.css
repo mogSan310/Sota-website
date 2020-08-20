@@ -3,9 +3,6 @@
        width:300px;
     }
      
-    header {
-      background-color:black;
-    }
     
     .main-container h1 {
         font-size:30px;
@@ -37,7 +34,7 @@
    }
    
    .moji  {
-     background-color:ghostwhite;
+     background-color:white;
      margin:20px 10px;
      border: solid 2px black;
      font-weight:bold;
